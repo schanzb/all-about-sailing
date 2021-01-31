@@ -16,7 +16,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Kaushan Script', cursive;
+
 }
 
 
@@ -28,9 +28,13 @@ body {
 	padding: 15px;
 
 }
+h6 {
+	font-size: 15px;
+}
 
 h1 {
 	font-size: 80px;
+	font-family: 'Kaushan Script', cursive;
 }
 
 h2 {
@@ -38,9 +42,11 @@ h2 {
 	color: #764637;
 	padding: 8px;
 	border-radius: 5px;
+	font-family: 'Kaushan Script', cursive;
 }
 
 a {
 	color: #75c1f6;
 	text-decoration: none;
+	font-family: 'Kaushan Script', cursive;
 }
