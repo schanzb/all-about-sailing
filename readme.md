@@ -1,3 +1,2 @@
-# OneMonth HTML Course 
-## Week 1
-Assignment
+# OneMonth HTML Course
+## Week 1 Assignment
